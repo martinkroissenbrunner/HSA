@@ -1,5 +1,4 @@
-# HSA
-Repositorium für das Projekt "Historische (Stimmungs-)Analyse: Distant Reading von Grazer Tagebüchern im Nationalsozialismus"
+# Historische (Stimmungs-)Analyse: Distant Reading von Grazer Tagebüchern im Nationalsozialismus
 
 Wie gingen Zeitzeugen mit dem NS-Regime um? Und wie lässt sich das allgemeine Stimmungsbild der Bevölkerung zur NS-Zeit schlüssig nachvollziehen? Wie haben die Menschen damals ihr (Nicht-)handeln bzw. das Handeln anderer gerechtfertigt? Das Projekt HSA soll sich mit diesen Fragen beschäftigen und möchte anhand von Tagebüchern aus der Zeit 1939-1945 erforschen, inwiefern die Taten des Nationalsozialismus’ von der Grazer Bevölkerung mitgetragen wurden. Tagebücher stellen wichtige Zeitdokumente dar, die einen Blick in private Haushalte der Zeit erlauben und die unmittelbaren Auswirkungen des politischen Geschehens abbilden. Die Historische (Stimmungs-)Analyse will dabei der drängendsten Frage der Nachkriegsgeneration auf den Grund gehen:
 
